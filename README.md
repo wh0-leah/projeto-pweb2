@@ -91,7 +91,7 @@ Authorization: Bearer <token>
 
 ## Configuração de ambiente
 
-Copie `.env.example` para `.env` e preencha os valores:
+Em `.env` e preencha os valores:
 
 ```text
 JWT_SECRET=segredo_super_forte
